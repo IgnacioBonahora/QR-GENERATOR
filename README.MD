@@ -1,6 +1,6 @@
 # Generador de Códigos QR
 
-Este proyecto es un generador de códigos QR simple desarrollado en Python utilizando Flask. Permite a los usuarios ingresar un enlace y genera un código QR que se puede escanear con cualquier dispositivo.
+Generador de códigos QR simple desarrollado en Python utilizando Flask. Permite a los usuarios ingresar un enlace y genera un código QR que se puede escanear con cualquier dispositivo.
 
 ## Características
 
